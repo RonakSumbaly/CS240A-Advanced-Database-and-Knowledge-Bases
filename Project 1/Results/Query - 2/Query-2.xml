@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Query-2.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/RonakSumbaly/CS240A-DBKB/blob/master/Project%201/Results/Query%20-%202/Query-2.xsl"?>
 <snapshot>
    <employee>
       <firstname>Kyoichi</firstname>
