@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Query-1.xsl"?>
 <history>
    <salary tend="1991-08-05" tstart="1990-08-05">40000</salary>
    <salary tend="1992-08-04" tstart="1991-08-05">42085</salary>
