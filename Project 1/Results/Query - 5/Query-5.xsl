@@ -13,15 +13,19 @@
                         <th style="text-align:center">Name</th>
                         <th style="text-align:center">Dept No</th>
                         <th style="text-align:center">Mgr No</th>
-                        <th style="text-align:center">Period</th>
+                        <th style="text-align:center">Longest Period</th>
+                        <th style="text-align:left">Start date</th>
+                        <th style="text-align:left">End date</th>
                     </tr>
                     <xsl:for-each select="temporalJoin/employee">
                         <tr>
                             <td><xsl:value-of select="empno"/></td>
                             <td><xsl:value-of select="name"/></td>
-                            <td><xsl:value-of select="deptno"/></td>
+                            <td><xsl:value-of select="deptNo"/></td>
                             <td><xsl:value-of select="manager"/></td>
                             <td><xsl:value-of select="period/@period"/></td>
+                            <td><xsl:value-of select="deptNo/@tstart"/></td>
+                            <td><xsl:value-of select="deptNo/@tend"/></td>
                             
                         </tr>
                     </xsl:for-each>

@@ -1,3504 +1,3502 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Query-5.xsl"?>
-
 <temporalJoin>
    <employee>
       <empno>10001</empno>
       <name>Joe Doe</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-06-26" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926876"/>
    </employee>
    <employee>
       <empno>10002</empno>
       <name>Bezalel Simmel</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1996-08-03" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923185"/>
    </employee>
    <employee>
       <empno>10003</empno>
       <name>Parto Bamford</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-12-03" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923429"/>
    </employee>
    <employee>
       <empno>10004</empno>
       <name>Chirstian Koblick</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-12-01" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926718"/>
    </employee>
    <employee>
       <empno>10005</empno>
       <name>Kyoichi Maliniak</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1989-09-12" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2925702"/>
    </employee>
    <employee>
       <empno>10006</empno>
       <name>Anneke Preusig</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-08-05" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925375"/>
    </employee>
    <employee>
       <empno>10007</empno>
       <name>Tzvetan Zielinski</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1989-02-10" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2925916"/>
    </employee>
    <employee>
       <empno>10008</empno>
       <name>Saniya Kalloufi</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-03-11" tend="2000-07-31">d005</deptNo>
       <manager>110567</manager>
       <period period="873"/>
    </employee>
    <employee>
       <empno>10009</empno>
       <name>Sumant Peac</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1985-02-18" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2927369"/>
    </employee>
    <employee>
       <empno>10010</empno>
       <name>Duangkaew Piveteau</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="2000-06-26" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2921762"/>
    </employee>
    <employee>
       <empno>10011</empno>
       <name>Mary Sluis</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1990-01-22" tend="1996-11-09">d009</deptNo>
       <manager>111939</manager>
       <period period="2483"/>
    </employee>
    <employee>
       <empno>10012</empno>
       <name>Patricio Bridgland</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-12-18" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924509"/>
    </employee>
    <employee>
       <empno>10013</empno>
       <name>Eberhardt Terkki</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1985-10-20" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2927125"/>
    </employee>
    <employee>
       <empno>10014</empno>
       <name>Berni Genin</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-12-29" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924133"/>
    </employee>
    <employee>
       <empno>10015</empno>
       <name>Guoxiang Nooteboom</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1992-09-19" tend="1993-08-22">d008</deptNo>
       <manager>111534</manager>
       <period period="337"/>
    </employee>
    <employee>
       <empno>10016</empno>
       <name>Kazuhito Cappelletti</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1998-02-11" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922628"/>
    </employee>
    <employee>
       <empno>10017</empno>
       <name>Cristinel Bouloucos</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1993-08-03" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2924281"/>
    </employee>
    <employee>
       <empno>10018</empno>
       <name>Kazuhide Peha</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-07-29" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924651"/>
    </employee>
    <employee>
       <empno>10019</empno>
       <name>Lillian Haddadi</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1999-04-30" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922185"/>
    </employee>
    <employee>
       <empno>10020</empno>
       <name>Mayuko Warwick</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1997-12-30" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922671"/>
    </employee>
    <employee>
       <empno>10021</empno>
       <name>Ramzi Erde</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-02-10" tend="2002-07-15">d005</deptNo>
       <manager>110567</manager>
       <period period="5269"/>
    </employee>
    <employee>
       <empno>10022</empno>
       <name>Shahaf Famili</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-09-03" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922059"/>
    </employee>
    <employee>
       <empno>10023</empno>
       <name>Bojan Montemayor</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-09-27" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922035"/>
    </employee>
    <employee>
       <empno>10024</empno>
       <name>Suzette Pettey</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1998-06-14" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922505"/>
    </employee>
    <employee>
       <empno>10025</empno>
       <name>Prasadram Heyers</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1987-08-17" tend="1997-10-15">d005</deptNo>
       <manager>110567</manager>
       <period period="3712"/>
    </employee>
    <employee>
       <empno>10026</empno>
       <name>Yongqiao Berztiss</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-03-20" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923687"/>
    </employee>
    <employee>
       <empno>10027</empno>
       <name>Divier Reistad</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1995-04-02" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923674"/>
    </employee>
    <employee>
       <empno>10028</empno>
       <name>Domenick Tempesti</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-10-22" tend="1998-04-06">d005</deptNo>
       <manager>110567</manager>
       <period period="2358"/>
    </employee>
    <employee>
       <empno>10029</empno>
       <name>Otmar Herbst</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1999-07-08" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922116"/>
    </employee>
    <employee>
       <empno>10030</empno>
       <name>Elvis Demeyer</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1994-02-17" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924083"/>
    </employee>
    <employee>
       <empno>10031</empno>
       <name>Karsten Joslin</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-09-01" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924983"/>
    </employee>
    <employee>
       <empno>10032</empno>
       <name>Jeong Reistad</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-06-20" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925421"/>
    </employee>
    <employee>
       <empno>10033</empno>
       <name>Arif Merlo</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1987-03-18" tend="1993-03-24">d006</deptNo>
       <manager>110854</manager>
       <period period="2198"/>
    </employee>
    <employee>
       <empno>10034</empno>
       <name>Bader Swan</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1995-04-12" tend="1999-10-31">d007</deptNo>
       <manager>111133</manager>
       <period period="1663"/>
    </employee>
    <employee>
       <empno>10035</empno>
       <name>Alain Chappelet</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-09-05" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926074"/>
    </employee>
    <employee>
       <empno>10036</empno>
       <name>Adamantios Portugali</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1992-04-28" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2924743"/>
    </employee>
    <employee>
       <empno>10037</empno>
       <name>Pradeep Makrucki</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-12-05" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925253"/>
    </employee>
    <employee>
       <empno>10038</empno>
       <name>Huan Lortz</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1989-09-20" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2925694"/>
    </employee>
    <employee>
       <empno>10039</empno>
       <name>Alejandro Brender</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1988-01-19" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2926304"/>
    </employee>
    <employee>
       <empno>10040</empno>
       <name>Weiyi Meriste</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="2002-01-22" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2921187"/>
    </employee>
    <employee>
       <empno>10041</empno>
       <name>Uri Lenart</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-11-12" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925641"/>
    </employee>
    <employee>
       <empno>10042</empno>
       <name>Magy Stamatiou</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1993-03-21" tend="2000-08-10">d002</deptNo>
       <manager>110114</manager>
       <period period="2699"/>
    </employee>
    <employee>
       <empno>10043</empno>
       <name>Yishay Tzvieli</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-10-20" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925299"/>
    </employee>
    <employee>
       <empno>10044</empno>
       <name>Mingsen Casley</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1994-05-21" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923990"/>
    </employee>
    <employee>
       <empno>10045</empno>
       <name>Moss Shanbhogue</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-11-16" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923080"/>
    </employee>
    <employee>
       <empno>10046</empno>
       <name>Lucien Rosenbaum</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1992-06-20" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2924690"/>
    </employee>
    <employee>
       <empno>10047</empno>
       <name>Zvonko Nyanchama</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-03-31" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925867"/>
    </employee>
    <employee>
       <empno>10048</empno>
       <name>Florian Syrotiuk</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1985-02-24" tend="1987-01-27">d005</deptNo>
       <manager>110567</manager>
       <period period="702"/>
    </employee>
    <employee>
       <empno>10049</empno>
       <name>Basil Tramer</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1992-05-04" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2924737"/>
    </employee>
    <employee>
       <empno>10050</empno>
       <name>Yinghua Dredge</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-11-05" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924552"/>
    </employee>
    <employee>
       <empno>10051</empno>
       <name>Hidefumi Caine</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-10-15" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924573"/>
    </employee>
    <employee>
       <empno>10052</empno>
       <name>Heping Nitsch</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1997-01-31" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923004"/>
    </employee>
    <employee>
       <empno>10053</empno>
       <name>Sanjiv Zschoche</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-11-13" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923814"/>
    </employee>
    <employee>
       <empno>10054</empno>
       <name>Mayumi Schueller</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1995-07-29" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2923556"/>
    </employee>
    <employee>
       <empno>10055</empno>
       <name>Georgy Dredge</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1992-04-27" tend="1995-07-22">d001</deptNo>
       <manager>110039</manager>
       <period period="1181"/>
    </employee>
    <employee>
       <empno>10056</empno>
       <name>Brendon Bernini</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-02-01" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925560"/>
    </employee>
    <employee>
       <empno>10057</empno>
       <name>Ebbe Callaway</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-01-15" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924847"/>
    </employee>
    <employee>
       <empno>10058</empno>
       <name>Berhard McFarlin</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1988-04-25" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2926207"/>
    </employee>
    <employee>
       <empno>10059</empno>
       <name>Alejandro McAlpine</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1991-06-26" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2925050"/>
    </employee>
    <employee>
       <empno>10060</empno>
       <name>Breannda Billingsley</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1992-11-11" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2924546"/>
    </employee>
    <employee>
       <empno>10061</empno>
       <name>Tse Herber</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-12-02" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925621"/>
    </employee>
    <employee>
       <empno>10062</empno>
       <name>Anoosh Peyn</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-08-30" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924985"/>
    </employee>
    <employee>
       <empno>10063</empno>
       <name>Gino Leonhardt</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-04-08" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925859"/>
    </employee>
    <employee>
       <empno>10064</empno>
       <name>Udi Jansch</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1985-11-20" tend="1992-03-02">d008</deptNo>
       <manager>111534</manager>
       <period period="2294"/>
    </employee>
    <employee>
       <empno>10065</empno>
       <name>Satosi Awdeh</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-05-24" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922526"/>
    </employee>
    <employee>
       <empno>10066</empno>
       <name>Kwee Schusler</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-02-26" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926996"/>
    </employee>
    <employee>
       <empno>10067</empno>
       <name>Claudi Stavenow</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1987-03-04" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2926625"/>
    </employee>
    <employee>
       <empno>10068</empno>
       <name>Charlene Brattka</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1987-08-07" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926469"/>
    </employee>
    <employee>
       <empno>10069</empno>
       <name>Margareta Bierman</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-06-14" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924696"/>
    </employee>
    <employee>
       <empno>10070</empno>
       <name>Reuven Garigliano</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1995-10-18" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923475"/>
    </employee>
    <employee>
       <empno>10071</empno>
       <name>Hisao Lipner</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1995-08-05" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2923549"/>
    </employee>
    <employee>
       <empno>10072</empno>
       <name>Hironoby Sidou</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1989-05-21" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925816"/>
    </employee>
    <employee>
       <empno>10073</empno>
       <name>Shir McClurg</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1998-02-02" tend="1998-02-22">d006</deptNo>
       <manager>110854</manager>
       <period period="20"/>
    </employee>
    <employee>
       <empno>10074</empno>
       <name>Mokhtar Bernatsky</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-08-13" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925367"/>
    </employee>
    <employee>
       <empno>10075</empno>
       <name>Gao Dolinsky</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-05-17" tend="2001-01-15">d005</deptNo>
       <manager>110567</manager>
       <period period="4626"/>
    </employee>
    <employee>
       <empno>10076</empno>
       <name>Erez Ritzmann</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-07-15" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923204"/>
    </employee>
    <employee>
       <empno>10077</empno>
       <name>Mona Azuma</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1994-12-23" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2923774"/>
    </employee>
    <employee>
       <empno>10078</empno>
       <name>Danel Mondadori</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1994-09-29" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923859"/>
    </employee>
    <employee>
       <empno>10079</empno>
       <name>Kshitij Gils</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1995-12-13" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923419"/>
    </employee>
    <employee>
       <empno>10080</empno>
       <name>Premal Baek</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1997-07-09" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2922845"/>
    </employee>
    <employee>
       <empno>10081</empno>
       <name>Zhongwei Rosen</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-10-30" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926750"/>
    </employee>
    <employee>
       <empno>10082</empno>
       <name>Parviz Lortz</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1990-01-03" tend="1990-01-15">d008</deptNo>
       <manager>111534</manager>
       <period period="12"/>
    </employee>
    <employee>
       <empno>10083</empno>
       <name>Vishv Zockler</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1987-03-31" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926598"/>
    </employee>
    <employee>
       <empno>10084</empno>
       <name>Tuval Kalloufi</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-12-15" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923417"/>
    </employee>
    <employee>
       <empno>10085</empno>
       <name>Kenroku Malabarba</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1994-04-09" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924032"/>
    </employee>
    <employee>
       <empno>10086</empno>
       <name>Somnath Foote</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1992-02-19" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2924812"/>
    </employee>
    <employee>
       <empno>10087</empno>
       <name>Xinglin Eugenio</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1997-05-08" tend="2001-01-09">d007</deptNo>
       <manager>111133</manager>
       <period period="1342"/>
    </employee>
    <employee>
       <empno>10088</empno>
       <name>Jungsoon Syrzycki</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1992-03-21" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2924781"/>
    </employee>
    <employee>
       <empno>10089</empno>
       <name>Sudharsan Flasterstein</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-01-10" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925947"/>
    </employee>
    <employee>
       <empno>10090</empno>
       <name>Kendra Hofting</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-03-14" tend="1999-05-07">d005</deptNo>
       <manager>110567</manager>
       <period period="4802"/>
    </employee>
    <employee>
       <empno>10091</empno>
       <name>Amabile Gomatam</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-11-18" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924539"/>
    </employee>
    <employee>
       <empno>10092</empno>
       <name>Valdiodio Niizuma</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-04-22" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923288"/>
    </employee>
    <employee>
       <empno>10093</empno>
       <name>Sailaja Desikan</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1997-06-08" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922876"/>
    </employee>
    <employee>
       <empno>10094</empno>
       <name>Arumugam Ossenbruggen</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1987-04-18" tend="1997-11-08">d008</deptNo>
       <manager>111534</manager>
       <period period="3857"/>
    </employee>
    <employee>
       <empno>10095</empno>
       <name>Hilari Morton</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-03-10" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924062"/>
    </employee>
    <employee>
       <empno>10096</empno>
       <name>Jayson Mandell</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1999-01-23" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922282"/>
    </employee>
    <employee>
       <empno>10097</empno>
       <name>Remzi Waschkowski</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1990-09-15" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2925334"/>
    </employee>
    <employee>
       <empno>10098</empno>
       <name>Sreekrishna Servieres</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1985-05-13" tend="1989-06-29">d004</deptNo>
       <manager>110420</manager>
       <period period="1508"/>
    </employee>
    <employee>
       <empno>10099</empno>
       <name>Valter Sullins</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1988-10-18" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926031"/>
    </employee>
    <employee>
       <empno>10100</empno>
       <name>Hironobu Haraldson</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1987-09-21" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2926424"/>
    </employee>
    <employee>
       <empno>10101</empno>
       <name>Perla Heyers</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1998-10-14" tend="2000-09-23">d007</deptNo>
       <manager>111133</manager>
       <period period="710"/>
    </employee>
    <employee>
       <empno>10102</empno>
       <name>Paraskevi Luby</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-01-02" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923764"/>
    </employee>
    <employee>
       <empno>10103</empno>
       <name>Akemi Birch</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-01-12" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922658"/>
    </employee>
    <employee>
       <empno>10104</empno>
       <name>Xinyu Warwick</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1987-04-16" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2926582"/>
    </employee>
    <employee>
       <empno>10105</empno>
       <name>Hironoby Piveteau</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1999-05-17" tend="2001-06-11">d003</deptNo>
       <manager>110228</manager>
       <period period="756"/>
    </employee>
    <employee>
       <empno>10106</empno>
       <name>Eben Aingworth</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-10-27" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924927"/>
    </employee>
    <employee>
       <empno>10107</empno>
       <name>Dung Baca</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1999-03-30" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922216"/>
    </employee>
    <employee>
       <empno>10108</empno>
       <name>Lunjin Giveon</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1999-12-06" tend="2001-10-20">d001</deptNo>
       <manager>110039</manager>
       <period period="684"/>
    </employee>
    <employee>
       <empno>10109</empno>
       <name>Mariusz Prampolini</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-06-16" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924329"/>
    </employee>
    <employee>
       <empno>10110</empno>
       <name>Xuejia Ullian</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1986-08-22" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2926819"/>
    </employee>
    <employee>
       <empno>10111</empno>
       <name>Hugo Rosis</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1988-12-19" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2925969"/>
    </employee>
    <employee>
       <empno>10112</empno>
       <name>Yuichiro Swick</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1998-05-01" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2922549"/>
    </employee>
    <employee>
       <empno>10113</empno>
       <name>Jaewon Syrzycki</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1998-09-14" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922413"/>
    </employee>
    <employee>
       <empno>10114</empno>
       <name>Munir Demeyer</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1992-07-17" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2924663"/>
    </employee>
    <employee>
       <empno>10115</empno>
       <name>Chikara Rissland</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1988-03-03" tend="1992-05-24">d009</deptNo>
       <manager>111939</manager>
       <period period="1543"/>
    </employee>
    <employee>
       <empno>10116</empno>
       <name>Dayanand Czap</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1995-12-03" tend="1998-11-01">d008</deptNo>
       <manager>111534</manager>
       <period period="1064"/>
    </employee>
    <employee>
       <empno>10117</empno>
       <name>Kiyotoshi Blokdijk</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-03-19" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924783"/>
    </employee>
    <employee>
       <empno>10118</empno>
       <name>Zhonghui Zyda</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-02-02" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924829"/>
    </employee>
    <employee>
       <empno>10119</empno>
       <name>Domenick Peltason</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-12-09" tend="1997-10-30">d004</deptNo>
       <manager>110420</manager>
       <period period="1421"/>
    </employee>
    <employee>
       <empno>10120</empno>
       <name>Armond Fairtlough</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-07-06" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923213"/>
    </employee>
    <employee>
       <empno>10121</empno>
       <name>Guoxiang Ramsay</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1989-05-03" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925834"/>
    </employee>
    <employee>
       <empno>10122</empno>
       <name>Ohad Esposito</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-08-06" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922452"/>
    </employee>
    <employee>
       <empno>10123</empno>
       <name>Hinrich Randi</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-01-15" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924481"/>
    </employee>
    <employee>
       <empno>10124</empno>
       <name>Geraldo Marwedel</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1999-06-06" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922148"/>
    </employee>
    <employee>
       <empno>10125</empno>
       <name>Syozo Hiltgen</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1990-10-26" tend="1996-03-25">d007</deptNo>
       <manager>111133</manager>
       <period period="1977"/>
    </employee>
    <employee>
       <empno>10126</empno>
       <name>Kayoko Valtorta</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1985-09-08" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2927167"/>
    </employee>
    <employee>
       <empno>10127</empno>
       <name>Subir Baja</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-05-17" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925090"/>
    </employee>
    <employee>
       <empno>10128</empno>
       <name>Babette Lamba</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1988-06-06" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2926165"/>
    </employee>
    <employee>
       <empno>10129</empno>
       <name>Armond Peir</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-01-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923385"/>
    </employee>
    <employee>
       <empno>10130</empno>
       <name>Nishit Casperson</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-06-21" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926150"/>
    </employee>
    <employee>
       <empno>10131</empno>
       <name>Magdalena Eldridge</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1999-09-17" tend="1999-12-06">d004</deptNo>
       <manager>110420</manager>
       <period period="80"/>
    </employee>
    <employee>
       <empno>10132</empno>
       <name>Ayakannu Skrikant</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1997-06-18" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2922866"/>
    </employee>
    <employee>
       <empno>10133</empno>
       <name>Giri Isaak</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1985-12-15" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2927069"/>
    </employee>
    <employee>
       <empno>10134</empno>
       <name>Diederik Siprelle</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-12-02" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924160"/>
    </employee>
    <employee>
       <empno>10135</empno>
       <name>Nathan Monkewich</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-01-04" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925588"/>
    </employee>
    <employee>
       <empno>10136</empno>
       <name>Zissis Pintelas</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1988-06-13" tend="1999-09-20">d007</deptNo>
       <manager>111133</manager>
       <period period="4116"/>
    </employee>
    <employee>
       <empno>10137</empno>
       <name>Maren Hutton</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1985-02-18" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2927369"/>
    </employee>
    <employee>
       <empno>10138</empno>
       <name>Perry Shimshoni</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1992-03-03" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2924799"/>
    </employee>
    <employee>
       <empno>10139</empno>
       <name>Ewing Foong</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-03-15" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922596"/>
    </employee>
    <employee>
       <empno>10140</empno>
       <name>Yucel Auria</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1991-03-14" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2925154"/>
    </employee>
    <employee>
       <empno>10141</empno>
       <name>Shahaf Ishibashi</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1998-07-23" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922466"/>
    </employee>
    <employee>
       <empno>10142</empno>
       <name>Tzvetan Hettesheimer</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-10-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924195"/>
    </employee>
    <employee>
       <empno>10143</empno>
       <name>Sakthirel Bakhtari</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-09-30" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926049"/>
    </employee>
    <employee>
       <empno>10144</empno>
       <name>Marla Brendel</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1988-09-02" tend="1993-08-10">d003</deptNo>
       <manager>110228</manager>
       <period period="1803"/>
    </employee>
    <employee>
       <empno>10145</empno>
       <name>Akemi Esposito</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-11-03" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2921998"/>
    </employee>
    <employee>
       <empno>10146</empno>
       <name>Chenyi Syang</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1988-06-28" tend="1990-09-07">d002</deptNo>
       <manager>110114</manager>
       <period period="801"/>
    </employee>
    <employee>
       <empno>10147</empno>
       <name>Kazuhito Encarnacion</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1987-12-18" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2926336"/>
    </employee>
    <employee>
       <empno>10148</empno>
       <name>Douadi Azumi</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1996-07-15" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923204"/>
    </employee>
    <employee>
       <empno>10149</empno>
       <name>Xiadong Perry</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-01-28" tend="1996-08-27">d007</deptNo>
       <manager>111133</manager>
       <period period="942"/>
    </employee>
    <employee>
       <empno>10150</empno>
       <name>Zhenbing Perng</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-11-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926733"/>
    </employee>
    <employee>
       <empno>10151</empno>
       <name>Itzchak Lichtner</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-12-12" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924515"/>
    </employee>
    <employee>
       <empno>10152</empno>
       <name>Jaques Munro</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1986-01-27" tend="1987-08-03">d006</deptNo>
       <manager>110854</manager>
       <period period="553"/>
    </employee>
    <employee>
       <empno>10153</empno>
       <name>Heekeun Majewski</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="2000-01-08" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2921932"/>
    </employee>
    <employee>
       <empno>10154</empno>
       <name>Abdulah Thibadeau</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1996-10-23" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923104"/>
    </employee>
    <employee>
       <empno>10155</empno>
       <name>Adas Nastansky</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-07-12" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925399"/>
    </employee>
    <employee>
       <empno>10156</empno>
       <name>Sumali Fargier</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1993-05-14" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2924362"/>
    </employee>
    <employee>
       <empno>10157</empno>
       <name>Nigel Aloisi</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-12-10" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922691"/>
    </employee>
    <employee>
       <empno>10158</empno>
       <name>Khedija Mitsuhashi</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1987-06-04" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926533"/>
    </employee>
    <employee>
       <empno>10159</empno>
       <name>Serif Buescher</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1996-06-12" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2923237"/>
    </employee>
    <employee>
       <empno>10160</empno>
       <name>Debatosh Khasidashvili</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1993-12-06" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924156"/>
    </employee>
    <employee>
       <empno>10161</empno>
       <name>Hairong Mellouli</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-06-09" tend="1994-01-05">d004</deptNo>
       <manager>110420</manager>
       <period period="941"/>
    </employee>
    <employee>
       <empno>10162</empno>
       <name>Florina Eugenio</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1998-05-27" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922523"/>
    </employee>
    <employee>
       <empno>10163</empno>
       <name>Karsten Szmurlo</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1992-02-02" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2924829"/>
    </employee>
    <employee>
       <empno>10164</empno>
       <name>Jagoda Braunmuhl</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="2000-05-31" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2921788"/>
    </employee>
    <employee>
       <empno>10165</empno>
       <name>Miyeon Macedo</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1988-05-17" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2926185"/>
    </employee>
    <employee>
       <empno>10166</empno>
       <name>Samphel Siegrist</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-09-02" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923155"/>
    </employee>
    <employee>
       <empno>10167</empno>
       <name>Duangkaew Rassart</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-04-04" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924767"/>
    </employee>
    <employee>
       <empno>10168</empno>
       <name>Dharmaraja Stassinopoulos</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1986-12-06" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2926713"/>
    </employee>
    <employee>
       <empno>10169</empno>
       <name>Sampalli Snedden</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-06-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922491"/>
    </employee>
    <employee>
       <empno>10170</empno>
       <name>Kasturi Jenevein</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-01-02" tend="1989-02-06">d004</deptNo>
       <manager>110420</manager>
       <period period="1131"/>
    </employee>
    <employee>
       <empno>10171</empno>
       <name>Herbert Trachtenberg</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-08-05" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923183"/>
    </employee>
    <employee>
       <empno>10172</empno>
       <name>Shigeu Matzen</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1998-10-01" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922396"/>
    </employee>
    <employee>
       <empno>10173</empno>
       <name>Shrikanth Mahmud</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1992-03-21" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2924781"/>
    </employee>
    <employee>
       <empno>10174</empno>
       <name>Badri Furudate</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1987-06-01" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926536"/>
    </employee>
    <employee>
       <empno>10175</empno>
       <name>Aleksandar Ananiadou</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1988-09-24" tend="1995-05-24">d001</deptNo>
       <manager>110039</manager>
       <period period="2433"/>
    </employee>
    <employee>
       <empno>10176</empno>
       <name>Brendon Lenart</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1994-12-22" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923775"/>
    </employee>
    <employee>
       <empno>10177</empno>
       <name>Pragnesh Iisaka</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1993-02-06" tend="1994-03-17">d002</deptNo>
       <manager>110114</manager>
       <period period="404"/>
    </employee>
    <employee>
       <empno>10178</empno>
       <name>Valery Litvinov</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-03-21" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924051"/>
    </employee>
    <employee>
       <empno>10179</empno>
       <name>Deniz Duclos</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="2000-01-25" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2921915"/>
    </employee>
    <employee>
       <empno>10180</empno>
       <name>Shaw Wendorf</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1994-07-01" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2923949"/>
    </employee>
    <employee>
       <empno>10181</empno>
       <name>Sibyl Nooteboom</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-06-22" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926149"/>
    </employee>
    <employee>
       <empno>10182</empno>
       <name>Moriyoshi Merey</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1999-01-05" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922300"/>
    </employee>
    <employee>
       <empno>10183</empno>
       <name>Mechthild Bonifati</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1996-08-11" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923177"/>
    </employee>
    <employee>
       <empno>10184</empno>
       <name>Mihalis Lowrie</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1997-12-26" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2922675"/>
    </employee>
    <employee>
       <empno>10185</empno>
       <name>Duro Sidhu</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1986-03-01" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926993"/>
    </employee>
    <employee>
       <empno>10186</empno>
       <name>Shigehito Kropatsch</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1996-12-25" tend="1997-08-16">d002</deptNo>
       <manager>110114</manager>
       <period period="234"/>
    </employee>
    <employee>
       <empno>10187</empno>
       <name>Tommaso Narwekar</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1991-06-01" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2925075"/>
    </employee>
    <employee>
       <empno>10188</empno>
       <name>Christ Muchinsky</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1987-08-27" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926449"/>
    </employee>
    <employee>
       <empno>10189</empno>
       <name>Khalid Erva</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-09-13" tend="1993-06-29">d005</deptNo>
       <manager>110567</manager>
       <period period="289"/>
    </employee>
    <employee>
       <empno>10190</empno>
       <name>Arve Fairtlough</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-06-23" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926879"/>
    </employee>
    <employee>
       <empno>10191</empno>
       <name>Zdislav Nastansky</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-04-10" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926953"/>
    </employee>
    <employee>
       <empno>10192</empno>
       <name>Mohua Falck</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1999-08-09" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922084"/>
    </employee>
    <employee>
       <empno>10193</empno>
       <name>Masaru Cheshire</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-09-21" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923136"/>
    </employee>
    <employee>
       <empno>10194</empno>
       <name>Josyula Hofmeyr</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1997-02-14" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2922990"/>
    </employee>
    <employee>
       <empno>10195</empno>
       <name>Annemarie Redmiles</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1985-02-15" tend="2001-04-14">d004</deptNo>
       <manager>110420</manager>
       <period period="5902"/>
    </employee>
    <employee>
       <empno>10196</empno>
       <name>Marc Hellwagner</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1999-01-31" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2922274"/>
    </employee>
    <employee>
       <empno>10197</empno>
       <name>Kasidit Krzyzanowski</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1994-06-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923952"/>
    </employee>
    <employee>
       <empno>10198</empno>
       <name>Pranav Furedi</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1985-08-31" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2927175"/>
    </employee>
    <employee>
       <empno>10199</empno>
       <name>Kazuhisa Ranta</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1998-02-07" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922632"/>
    </employee>
    <employee>
       <empno>10200</empno>
       <name>Vidya Awdeh</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="2000-10-03" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2921663"/>
    </employee>
    <employee>
       <empno>10201</empno>
       <name>Idoia Kavraki</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-11-10" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924547"/>
    </employee>
    <employee>
       <empno>10202</empno>
       <name>Greger Lichtner</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-10-06" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924948"/>
    </employee>
    <employee>
       <empno>10203</empno>
       <name>Steen Escriba</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1989-04-06" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2925861"/>
    </employee>
    <employee>
       <empno>10204</empno>
       <name>Nevio Ritcey</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-12-18" tend="1999-03-08">d005</deptNo>
       <manager>110567</manager>
       <period period="80"/>
    </employee>
    <employee>
       <empno>10205</empno>
       <name>Mabhin Leijenhorst</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-08-23" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924261"/>
    </employee>
    <employee>
       <empno>10206</empno>
       <name>Alassane Iwayama</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-04-19" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926213"/>
    </employee>
    <employee>
       <empno>10207</empno>
       <name>Girolamo Anandan</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1992-10-11" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924577"/>
    </employee>
    <employee>
       <empno>10208</empno>
       <name>Xiping Klerer</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1995-02-05" tend="1999-05-15">d001</deptNo>
       <manager>110039</manager>
       <period period="1560"/>
    </employee>
    <employee>
       <empno>10209</empno>
       <name>Yolla Ellozy</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1999-08-07" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922086"/>
    </employee>
    <employee>
       <empno>10210</empno>
       <name>Yuping Alpin</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1996-02-24" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923346"/>
    </employee>
    <employee>
       <empno>10211</empno>
       <name>Vishu Strehl</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-11-22" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924901"/>
    </employee>
    <employee>
       <empno>10212</empno>
       <name>Divier Esteva</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-01-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923373"/>
    </employee>
    <employee>
       <empno>10213</empno>
       <name>Jackson Kakkad</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1994-10-06" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923852"/>
    </employee>
    <employee>
       <empno>10214</empno>
       <name>Tadahiko Ciolek</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1988-02-29" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926263"/>
    </employee>
    <employee>
       <empno>10215</empno>
       <name>Xiaobin Duclos</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1991-11-23" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924900"/>
    </employee>
    <employee>
       <empno>10216</empno>
       <name>Amstein Ghemri</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1987-10-30" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2926385"/>
    </employee>
    <employee>
       <empno>10217</empno>
       <name>Yongmin Roison</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-05-12" tend="1993-08-05">d004</deptNo>
       <manager>110420</manager>
       <period period="2642"/>
    </employee>
    <employee>
       <empno>10218</empno>
       <name>Zhenhua Magalhaes</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1997-01-31" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923004"/>
    </employee>
    <employee>
       <empno>10219</empno>
       <name>Genta Kolvik</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1994-10-23" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923835"/>
    </employee>
    <employee>
       <empno>10220</empno>
       <name>Kish Fasbender</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1997-09-16" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2922776"/>
    </employee>
    <employee>
       <empno>10221</empno>
       <name>Yucai Granlund</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-06-08" tend="2000-10-04">d004</deptNo>
       <manager>110420</manager>
       <period period="4501"/>
    </employee>
    <employee>
       <empno>10222</empno>
       <name>Tze Nourani</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-06-08" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926894"/>
    </employee>
    <employee>
       <empno>10223</empno>
       <name>Carrsten Schmiedel</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-04-01" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922579"/>
    </employee>
    <employee>
       <empno>10224</empno>
       <name>Leon Trogemann</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-01-09" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926314"/>
    </employee>
    <employee>
       <empno>10225</empno>
       <name>Kellie Chinen</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1995-12-14" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923418"/>
    </employee>
    <employee>
       <empno>10226</empno>
       <name>Xinglin Plessier</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1996-01-29" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923372"/>
    </employee>
    <employee>
       <empno>10227</empno>
       <name>Anneli Kaiser</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1994-11-01" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923826"/>
    </employee>
    <employee>
       <empno>10228</empno>
       <name>Karoline Cesareni</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1993-01-28" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2924468"/>
    </employee>
    <employee>
       <empno>10229</empno>
       <name>Ulises Takanami</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1996-02-20" tend="2000-06-30">d006</deptNo>
       <manager>110854</manager>
       <period period="1592"/>
    </employee>
    <employee>
       <empno>10230</empno>
       <name>Clyde Vernadat</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1996-06-16" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923233"/>
    </employee>
    <employee>
       <empno>10231</empno>
       <name>Shaowen Desikan</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1998-09-09" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2922418"/>
    </employee>
    <employee>
       <empno>10232</empno>
       <name>Marko Auria</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-06-04" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924706"/>
    </employee>
    <employee>
       <empno>10233</empno>
       <name>Lein Vendrig</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1994-04-29" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2924012"/>
    </employee>
    <employee>
       <empno>10234</empno>
       <name>Arunachalam Bakhtari</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1990-11-19" tend="1999-08-06">d007</deptNo>
       <manager>111133</manager>
       <period period="3182"/>
    </employee>
    <employee>
       <empno>10235</empno>
       <name>Susanta Roccetti</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-04-06" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923670"/>
    </employee>
    <employee>
       <empno>10236</empno>
       <name>Susumu Bade</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1996-08-30" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923158"/>
    </employee>
    <employee>
       <empno>10237</empno>
       <name>Yannis Mandell</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-08-11" tend="2000-02-21">d007</deptNo>
       <manager>111133</manager>
       <period period="3846"/>
    </employee>
    <employee>
       <empno>10238</empno>
       <name>Mototsugu Gire</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1996-05-25" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923255"/>
    </employee>
    <employee>
       <empno>10239</empno>
       <name>Nikolaos Llado</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1996-05-04" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2923276"/>
    </employee>
    <employee>
       <empno>10240</empno>
       <name>Remko Maccarone</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1998-10-06" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922391"/>
    </employee>
    <employee>
       <empno>10241</empno>
       <name>Ortrud Murillo</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1988-06-12" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2926159"/>
    </employee>
    <employee>
       <empno>10242</empno>
       <name>Lunjin Ozeri</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-01-18" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926305"/>
    </employee>
    <employee>
       <empno>10243</empno>
       <name>Wonhee Pouyioutas</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1986-06-07" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926895"/>
    </employee>
    <employee>
       <empno>10244</empno>
       <name>Foong Flasterstein</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-09-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922046"/>
    </employee>
    <employee>
       <empno>10245</empno>
       <name>Ramalingam Gente</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1994-04-21" tend="1995-02-20">d008</deptNo>
       <manager>111534</manager>
       <period period="305"/>
    </employee>
    <employee>
       <empno>10246</empno>
       <name>Basem Teitelbaum</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-02-01" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925195"/>
    </employee>
    <employee>
       <empno>10247</empno>
       <name>Heon Riefers</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-08-14" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924635"/>
    </employee>
    <employee>
       <empno>10248</empno>
       <name>Frederique Tempesti</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1991-08-13" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925002"/>
    </employee>
    <employee>
       <empno>10249</empno>
       <name>Marie Boreale</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1998-04-13" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922567"/>
    </employee>
    <employee>
       <empno>10250</empno>
       <name>Serap Etalle</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1992-08-30" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2924619"/>
    </employee>
    <employee>
       <empno>10251</empno>
       <name>Alair Rosenbaum</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1992-06-25" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2924685"/>
    </employee>
    <employee>
       <empno>10252</empno>
       <name>Shirish Wegerle</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-11-08" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925280"/>
    </employee>
    <employee>
       <empno>10253</empno>
       <name>Zsolt Salinas</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1985-02-21" tend="1994-03-20">d007</deptNo>
       <manager>111133</manager>
       <period period="3314"/>
    </employee>
    <employee>
       <empno>10254</empno>
       <name>Shen Brattka</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1990-06-14" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925427"/>
    </employee>
    <employee>
       <empno>10255</empno>
       <name>Roddy Garnick</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-05-12" tend="1999-11-14">d004</deptNo>
       <manager>110420</manager>
       <period period="2377"/>
    </employee>
    <employee>
       <empno>10256</empno>
       <name>Irene Radhakrishnan</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1985-10-12" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2927133"/>
    </employee>
    <employee>
       <empno>10257</empno>
       <name>Aiman Riexinger</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1997-07-16" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922838"/>
    </employee>
    <employee>
       <empno>10258</empno>
       <name>Basil Ishibashi</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1985-05-17" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2927281"/>
    </employee>
    <employee>
       <empno>10259</empno>
       <name>Susanna Vesel</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1987-07-25" tend="1994-08-15">d001</deptNo>
       <manager>110039</manager>
       <period period="2578"/>
    </employee>
    <employee>
       <empno>10260</empno>
       <name>Alper Suomi</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-02-01" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924464"/>
    </employee>
    <employee>
       <empno>10261</empno>
       <name>Mang Erie</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-09-11" tend="1999-02-23">d005</deptNo>
       <manager>110567</manager>
       <period period="895"/>
    </employee>
    <employee>
       <empno>10262</empno>
       <name>Mahendra Maraist</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1996-01-22" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923379"/>
    </employee>
    <employee>
       <empno>10263</empno>
       <name>Takahiro Waterhouse</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1996-12-21" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2923045"/>
    </employee>
    <employee>
       <empno>10264</empno>
       <name>Nalini Kawashimo</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-07-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922838"/>
    </employee>
    <employee>
       <empno>10265</empno>
       <name>Ramalingam Muniz</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1997-09-12" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922780"/>
    </employee>
    <employee>
       <empno>10266</empno>
       <name>Sukumar Rassart</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-05-25" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925447"/>
    </employee>
    <employee>
       <empno>10267</empno>
       <name>Shaunak Cullers</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1997-04-26" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922919"/>
    </employee>
    <employee>
       <empno>10268</empno>
       <name>Nishit Siochi</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-04-15" tend="1990-08-17">d004</deptNo>
       <manager>110420</manager>
       <period period="854"/>
    </employee>
    <employee>
       <empno>10269</empno>
       <name>Taizo Oxman</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-07-24" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926117"/>
    </employee>
    <employee>
       <empno>10270</empno>
       <name>Bedir Hartvigsen</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1991-09-26" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924958"/>
    </employee>
    <employee>
       <empno>10271</empno>
       <name>Sham Eastman</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-05-23" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926910"/>
    </employee>
    <employee>
       <empno>10272</empno>
       <name>Yishai Cannane</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1997-10-23" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2922739"/>
    </employee>
    <employee>
       <empno>10273</empno>
       <name>Baocai Lieblein</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1985-11-06" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2927108"/>
    </employee>
    <employee>
       <empno>10274</empno>
       <name>Dmitri Pearson</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-02-02" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923002"/>
    </employee>
    <employee>
       <empno>10275</empno>
       <name>Marek Luck</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1987-09-08" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926437"/>
    </employee>
    <employee>
       <empno>10276</empno>
       <name>Xuejun Hempstead</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-10-19" tend="2000-02-04">d005</deptNo>
       <manager>110567</manager>
       <period period="4856"/>
    </employee>
    <employee>
       <empno>10277</empno>
       <name>Isaac Schwartzbauer</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1985-06-16" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2927251"/>
    </employee>
    <employee>
       <empno>10278</empno>
       <name>Lubomir Nitsch</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-07-02" tend="1997-02-14">d005</deptNo>
       <manager>110567</manager>
       <period period="1323"/>
    </employee>
    <employee>
       <empno>10279</empno>
       <name>Barton Jumpertz</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1999-07-11" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2922113"/>
    </employee>
    <employee>
       <empno>10280</empno>
       <name>Stabislas Delgrange</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1995-01-27" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2923739"/>
    </employee>
    <employee>
       <empno>10281</empno>
       <name>Moty Kusakari</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1994-12-03" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2923794"/>
    </employee>
    <employee>
       <empno>10282</empno>
       <name>Hercules Benzmuller</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-05-02" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923278"/>
    </employee>
    <employee>
       <empno>10283</empno>
       <name>Kauko Birjandi</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-05-25" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926177"/>
    </employee>
    <employee>
       <empno>10284</empno>
       <name>Masali Murrill</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1999-07-06" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922118"/>
    </employee>
    <employee>
       <empno>10285</empno>
       <name>Zhonghui Preusig</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1995-05-25" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923621"/>
    </employee>
    <employee>
       <empno>10286</empno>
       <name>Saddek Gopalakrishnan</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1994-12-24" tend="1999-01-24">d009</deptNo>
       <manager>111939</manager>
       <period period="1492"/>
    </employee>
    <employee>
       <empno>10287</empno>
       <name>Marie Pietracaprina</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-09-05" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922787"/>
    </employee>
    <employee>
       <empno>10288</empno>
       <name>Selwyn Perri</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1994-08-29" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923890"/>
    </employee>
    <employee>
       <empno>10289</empno>
       <name>Shay Poulakidas</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-03-12" tend="2002-01-31">d005</deptNo>
       <manager>110567</manager>
       <period period="3247"/>
    </employee>
    <employee>
       <empno>10290</empno>
       <name>Yongmao Pleszkun</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-09-18" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924966"/>
    </employee>
    <employee>
       <empno>10291</empno>
       <name>Dipayan Seghrouchni</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1987-03-30" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926599"/>
    </employee>
    <employee>
       <empno>10292</empno>
       <name>Yucel Ghelli</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-06-05" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925801"/>
    </employee>
    <employee>
       <empno>10293</empno>
       <name>Mihalis Avouris</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-12-12" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924515"/>
    </employee>
    <employee>
       <empno>10294</empno>
       <name>Rutger Miara</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-01-30" tend="1999-05-04">d005</deptNo>
       <manager>110567</manager>
       <period period="94"/>
    </employee>
    <employee>
       <empno>10295</empno>
       <name>Kristine Velardi</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1995-06-19" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2923596"/>
    </employee>
    <employee>
       <empno>10296</empno>
       <name>Petter Lorho</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-09-16" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925698"/>
    </employee>
    <employee>
       <empno>10297</empno>
       <name>Narain Oaver</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-05-28" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926905"/>
    </employee>
    <employee>
       <empno>10298</empno>
       <name>Dietrich DuCasse</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="2002-05-05" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2921084"/>
    </employee>
    <employee>
       <empno>10299</empno>
       <name>Ipke Stentiford</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1990-01-10" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925582"/>
    </employee>
    <employee>
       <empno>10300</empno>
       <name>Tadahiko Ulupinar</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-05-17" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925090"/>
    </employee>
    <employee>
       <empno>10301</empno>
       <name>Lucien Staudhammer</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1988-05-23" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2926179"/>
    </employee>
    <employee>
       <empno>10302</empno>
       <name>Faiza Baer</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1986-07-22" tend="1999-11-09">d007</deptNo>
       <manager>111133</manager>
       <period period="4858"/>
    </employee>
    <employee>
       <empno>10303</empno>
       <name>Marlo Zschoche</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-02-05" tend="2000-11-15">d004</deptNo>
       <manager>110420</manager>
       <period period="3936"/>
    </employee>
    <employee>
       <empno>10304</empno>
       <name>Bernt Erie</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-11-16" tend="2002-05-08">d007</deptNo>
       <manager>111133</manager>
       <period period="3460"/>
    </employee>
    <employee>
       <empno>10305</empno>
       <name>Hirochika Piancastelli</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-10-31" tend="1992-06-02">d005</deptNo>
       <manager>110567</manager>
       <period period="1310"/>
    </employee>
    <employee>
       <empno>10306</empno>
       <name>Heng Kilgour</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1993-09-06" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924247"/>
    </employee>
    <employee>
       <empno>10307</empno>
       <name>Nikolaos Leaver</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="2000-01-21" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2921919"/>
    </employee>
    <employee>
       <empno>10308</empno>
       <name>Dzung Holburn</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-12-29" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924498"/>
    </employee>
    <employee>
       <empno>10309</empno>
       <name>Prodip Schusler</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-05-02" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922913"/>
    </employee>
    <employee>
       <empno>10310</empno>
       <name>Aksel Alencar</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-10-24" tend="2001-07-26">d004</deptNo>
       <manager>110420</manager>
       <period period="3928"/>
    </employee>
    <employee>
       <empno>10311</empno>
       <name>Hsiangchu Molenkamp</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-11-04" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922362"/>
    </employee>
    <employee>
       <empno>10312</empno>
       <name>Rasiah Deyuan</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-08-28" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926813"/>
    </employee>
    <employee>
       <empno>10313</empno>
       <name>Subbu Riexinger</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1994-10-10" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923848"/>
    </employee>
    <employee>
       <empno>10314</empno>
       <name>Christfried Apsitis</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1986-01-16" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2927037"/>
    </employee>
    <employee>
       <empno>10315</empno>
       <name>Maris Angelopoulos</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1987-08-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926448"/>
    </employee>
    <employee>
       <empno>10316</empno>
       <name>Christoper Schwaller</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1990-12-18" tend="1991-01-02">d006</deptNo>
       <manager>110854</manager>
       <period period="15"/>
    </employee>
    <employee>
       <empno>10317</empno>
       <name>Arie Birge</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="2000-07-05" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2921753"/>
    </employee>
    <employee>
       <empno>10318</empno>
       <name>Mototsugu Beilner</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1987-03-23" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926606"/>
    </employee>
    <employee>
       <empno>10319</empno>
       <name>Mechthild Miyakawa</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-06-18" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923962"/>
    </employee>
    <employee>
       <empno>10320</empno>
       <name>Uinam Stasinski</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1988-11-03" tend="2001-12-23">d007</deptNo>
       <manager>111133</manager>
       <period period="4798"/>
    </employee>
    <employee>
       <empno>10321</empno>
       <name>Guenter Ravishankar</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1995-07-24" tend="1999-08-14">d007</deptNo>
       <manager>111133</manager>
       <period period="1482"/>
    </employee>
    <employee>
       <empno>10322</empno>
       <name>Isamu Dahlbom</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-01-29" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925563"/>
    </employee>
    <employee>
       <empno>10323</empno>
       <name>Kankanahalli Hinsberger</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-06-06" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925070"/>
    </employee>
    <employee>
       <empno>10324</empno>
       <name>Bernardo Rouquie</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-07-19" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922105"/>
    </employee>
    <employee>
       <empno>10325</empno>
       <name>Arunachalam Badr</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1990-09-20" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2925329"/>
    </employee>
    <employee>
       <empno>10326</empno>
       <name>Masali Czap</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1998-09-02" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922425"/>
    </employee>
    <employee>
       <empno>10327</empno>
       <name>Roded Facello</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1988-05-10" tend="1993-05-22">d008</deptNo>
       <manager>111534</manager>
       <period period="1838"/>
    </employee>
    <employee>
       <empno>10328</empno>
       <name>Serenella Kawashima</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-07-17" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922472"/>
    </employee>
    <employee>
       <empno>10329</empno>
       <name>Remko Shigei</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1986-01-20" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2927033"/>
    </employee>
    <employee>
       <empno>10330</empno>
       <name>Kasturi Bellmore</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1993-10-08" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924215"/>
    </employee>
    <employee>
       <empno>10331</empno>
       <name>Arto Binkley</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1986-10-29" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926751"/>
    </employee>
    <employee>
       <empno>10332</empno>
       <name>Masanao Bain</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-10-20" tend="1997-03-07">d004</deptNo>
       <manager>110420</manager>
       <period period="3060"/>
    </employee>
    <employee>
       <empno>10333</empno>
       <name>Snehasis Dymetman</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-01-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924480"/>
    </employee>
    <employee>
       <empno>10334</empno>
       <name>Falguni Erie</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1998-02-15" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2922624"/>
    </employee>
    <employee>
       <empno>10335</empno>
       <name>Toshimori Bahi</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1999-11-07" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2921994"/>
    </employee>
    <employee>
       <empno>10336</empno>
       <name>Goa Rothe</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1996-09-27" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923130"/>
    </employee>
    <employee>
       <empno>10337</empno>
       <name>Jeong Sadowsky</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1998-04-25" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922555"/>
    </employee>
    <employee>
       <empno>10338</empno>
       <name>Heon Ranai</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1999-12-29" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2921942"/>
    </employee>
    <employee>
       <empno>10339</empno>
       <name>Teunis Liedekerke</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-11-30" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925623"/>
    </employee>
    <employee>
       <empno>10340</empno>
       <name>Djelloul Laventhal</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1988-03-30" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2926233"/>
    </employee>
    <employee>
       <empno>10341</empno>
       <name>Wilmer Greenaway</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1987-04-29" tend="1998-11-11">d004</deptNo>
       <manager>110420</manager>
       <period period="4214"/>
    </employee>
    <employee>
       <empno>10342</empno>
       <name>Stella Hiroyama</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1987-07-25" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926482"/>
    </employee>
    <employee>
       <empno>10343</empno>
       <name>Dinah Syrzycki</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1997-10-03" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922759"/>
    </employee>
    <employee>
       <empno>10344</empno>
       <name>Uwe Garnier</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="2001-11-11" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2921259"/>
    </employee>
    <employee>
       <empno>10345</empno>
       <name>Arra Ratnakar</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-11-08" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924184"/>
    </employee>
    <employee>
       <empno>10346</empno>
       <name>Aamod Radwan</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-01-17" tend="1996-04-20">d007</deptNo>
       <manager>111133</manager>
       <period period="1555"/>
    </employee>
    <employee>
       <empno>10347</empno>
       <name>Pradeep Kaminger</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1998-02-20" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922619"/>
    </employee>
    <employee>
       <empno>10348</empno>
       <name>Mahendra Picco</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-10-22" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923471"/>
    </employee>
    <employee>
       <empno>10349</empno>
       <name>Oksana Brodie</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1991-09-28" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2924956"/>
    </employee>
    <employee>
       <empno>10350</empno>
       <name>Kristen Kavvadias</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-05-11" tend="1998-01-16">d004</deptNo>
       <manager>110420</manager>
       <period period="2442"/>
    </employee>
    <employee>
       <empno>10351</empno>
       <name>Tadahiko Strehl</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1995-05-01" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2923645"/>
    </employee>
    <employee>
       <empno>10352</empno>
       <name>Erzsebet Ohori</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-12-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922320"/>
    </employee>
    <employee>
       <empno>10353</empno>
       <name>Phule Hammerschmidt</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1989-08-24" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2925721"/>
    </employee>
    <employee>
       <empno>10354</empno>
       <name>Moto Kusakari</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="2000-03-03" tend="2002-01-01">d003</deptNo>
       <manager>110228</manager>
       <period period="669"/>
    </employee>
    <employee>
       <empno>10355</empno>
       <name>Satyanarayana Cochrane</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1996-01-26" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923375"/>
    </employee>
    <employee>
       <empno>10356</empno>
       <name>Vasilis Standera</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1995-06-26" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923589"/>
    </employee>
    <employee>
       <empno>10357</empno>
       <name>Hausi Sidhu</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1994-04-04" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2924037"/>
    </employee>
    <employee>
       <empno>10358</empno>
       <name>Qunsheng Tagansky</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-02-19" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925177"/>
    </employee>
    <employee>
       <empno>10359</empno>
       <name>Heekeun Sambasivam</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-07-20" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922469"/>
    </employee>
    <employee>
       <empno>10360</empno>
       <name>Irene Munck</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1996-09-04" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2923153"/>
    </employee>
    <employee>
       <empno>10361</empno>
       <name>Seshu Sidou</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1986-10-23" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926757"/>
    </employee>
    <employee>
       <empno>10362</empno>
       <name>Shalesh dAstous</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1990-11-02" tend="1997-07-16">d003</deptNo>
       <manager>110228</manager>
       <period period="2448"/>
    </employee>
    <employee>
       <empno>10363</empno>
       <name>Toshiki Muniz</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1987-05-18" tend="1993-02-12">d006</deptNo>
       <manager>110854</manager>
       <period period="2097"/>
    </employee>
    <employee>
       <empno>10364</empno>
       <name>Nakhoon Dengi</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1985-11-14" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2927100"/>
    </employee>
    <employee>
       <empno>10365</empno>
       <name>Rosine Granlund</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1987-10-22" tend="1992-04-04">d008</deptNo>
       <manager>111534</manager>
       <period period="1626"/>
    </employee>
    <employee>
       <empno>10366</empno>
       <name>Morrie Piazza</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-08-15" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922808"/>
    </employee>
    <employee>
       <empno>10367</empno>
       <name>Hyuckchul Gini</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1991-06-24" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2925052"/>
    </employee>
    <employee>
       <empno>10368</empno>
       <name>Hatim Koshiba</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-05-16" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923264"/>
    </employee>
    <employee>
       <empno>10369</empno>
       <name>Qunsheng Toyoshima</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-09-05" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923883"/>
    </employee>
    <employee>
       <empno>10370</empno>
       <name>Clyde Fandrianto</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-04-18" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924753"/>
    </employee>
    <employee>
       <empno>10371</empno>
       <name>Ioana Kirkerud</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-11-28" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925625"/>
    </employee>
    <employee>
       <empno>10372</empno>
       <name>Anneli Frijda</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1985-07-30" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2927207"/>
    </employee>
    <employee>
       <empno>10373</empno>
       <name>Hongzue Heijenga</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-04-26" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922919"/>
    </employee>
    <employee>
       <empno>10374</empno>
       <name>Willard Rosin</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1993-12-08" tend="1995-04-25">d007</deptNo>
       <manager>111133</manager>
       <period period="503"/>
    </employee>
    <employee>
       <empno>10375</empno>
       <name>Dante Kalafatis</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-05-29" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923982"/>
    </employee>
    <employee>
       <empno>10376</empno>
       <name>Fai Bale</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-12-08" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925250"/>
    </employee>
    <employee>
       <empno>10377</empno>
       <name>Marl Grospietsch</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-08-24" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923164"/>
    </employee>
    <employee>
       <empno>10378</empno>
       <name>Takahira Lichtner</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-08-31" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924618"/>
    </employee>
    <employee>
       <empno>10379</empno>
       <name>Mikhail Rosis</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-07-15" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923204"/>
    </employee>
    <employee>
       <empno>10380</empno>
       <name>Alejandro Kamble</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1985-03-19" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2927340"/>
    </employee>
    <employee>
       <empno>10381</empno>
       <name>Jiong Parfitt</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-12-04" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924889"/>
    </employee>
    <employee>
       <empno>10382</empno>
       <name>Shirish Dredge</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1999-05-07" tend="2000-10-27">d009</deptNo>
       <manager>111939</manager>
       <period period="539"/>
    </employee>
    <employee>
       <empno>10383</empno>
       <name>Leucio Aumann</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-06-19" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925057"/>
    </employee>
    <employee>
       <empno>10384</empno>
       <name>Feiyu Luft</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1986-01-16" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2927037"/>
    </employee>
    <employee>
       <empno>10385</empno>
       <name>Khatoun Imataki</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-12-20" tend="1998-01-23">d004</deptNo>
       <manager>110420</manager>
       <period period="1860"/>
    </employee>
    <employee>
       <empno>10386</empno>
       <name>Eishiro Miyakawa</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1985-08-02" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2927204"/>
    </employee>
    <employee>
       <empno>10387</empno>
       <name>Parto Wrigley</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1994-01-07" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2924124"/>
    </employee>
    <employee>
       <empno>10388</empno>
       <name>Hironoby Kaiser</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1999-05-28" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922157"/>
    </employee>
    <employee>
       <empno>10389</empno>
       <name>Make Peir</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-05-13" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922172"/>
    </employee>
    <employee>
       <empno>10390</empno>
       <name>Wanqing Bratten</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1989-05-17" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2925820"/>
    </employee>
    <employee>
       <empno>10391</empno>
       <name>Hongzue Akaboshi</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-01-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924468"/>
    </employee>
    <employee>
       <empno>10392</empno>
       <name>Jiann Hainaut</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1997-08-09" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922814"/>
    </employee>
    <employee>
       <empno>10393</empno>
       <name>Yagil DasSarma</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-06-23" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925783"/>
    </employee>
    <employee>
       <empno>10394</empno>
       <name>Shawna Meriste</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1991-03-14" tend="1991-08-25">d005</deptNo>
       <manager>110567</manager>
       <period period="164"/>
    </employee>
    <employee>
       <empno>10395</empno>
       <name>Takahiro Deverell</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1998-08-10" tend="2001-08-13">d005</deptNo>
       <manager>110567</manager>
       <period period="1099"/>
    </employee>
    <employee>
       <empno>10396</empno>
       <name>Sibyl Rahier</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1986-01-11" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2927042"/>
    </employee>
    <employee>
       <empno>10397</empno>
       <name>Irena Reutenauer</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-05-21" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924355"/>
    </employee>
    <employee>
       <empno>10398</empno>
       <name>Shooichi Escriba</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1990-10-12" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925307"/>
    </employee>
    <employee>
       <empno>10399</empno>
       <name>Guenter Marchegay</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="2000-01-26" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2921914"/>
    </employee>
    <employee>
       <empno>10400</empno>
       <name>Ortrud Nitto</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1993-10-17" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924206"/>
    </employee>
    <employee>
       <empno>10401</empno>
       <name>Eckart Barriga</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1999-10-25" tend="2001-04-25">d006</deptNo>
       <manager>110854</manager>
       <period period="548"/>
    </employee>
    <employee>
       <empno>10402</empno>
       <name>Volkmar Ebeling</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1987-01-02" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2926686"/>
    </employee>
    <employee>
       <empno>10403</empno>
       <name>Atreyi Mungall</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1995-03-07" tend="2001-06-15">d007</deptNo>
       <manager>111133</manager>
       <period period="2292"/>
    </employee>
    <employee>
       <empno>10404</empno>
       <name>Prodip Rosti</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-08-28" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926082"/>
    </employee>
    <employee>
       <empno>10405</empno>
       <name>Hilary Budinsky</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1998-09-26" tend="2000-12-05">d006</deptNo>
       <manager>110854</manager>
       <period period="801"/>
    </employee>
    <employee>
       <empno>10406</empno>
       <name>Sigeru Wynblatt</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1996-01-26" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2923375"/>
    </employee>
    <employee>
       <empno>10407</empno>
       <name>Ulf Siepmann</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1999-10-30" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922002"/>
    </employee>
    <employee>
       <empno>10408</empno>
       <name>Martijn Kaiser</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1998-10-07" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922390"/>
    </employee>
    <employee>
       <empno>10409</empno>
       <name>Mario Straney</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-09-26" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922766"/>
    </employee>
    <employee>
       <empno>10410</empno>
       <name>Takahito Gecsei</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1993-10-16" tend="1996-07-21">d007</deptNo>
       <manager>111133</manager>
       <period period="1009"/>
    </employee>
    <employee>
       <empno>10411</empno>
       <name>Lidong Klerer</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-09-02" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925712"/>
    </employee>
    <employee>
       <empno>10412</empno>
       <name>Masoud Fabrizio</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="2000-05-19" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2921800"/>
    </employee>
    <employee>
       <empno>10413</empno>
       <name>Danel Impagliazzo</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1991-12-27" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2924866"/>
    </employee>
    <employee>
       <empno>10414</empno>
       <name>Yinlin Alpin</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1990-05-30" tend="1994-12-02">d005</deptNo>
       <manager>110567</manager>
       <period period="1647"/>
    </employee>
    <employee>
       <empno>10415</empno>
       <name>Mark Coorg</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-10-25" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924198"/>
    </employee>
    <employee>
       <empno>10416</empno>
       <name>Uli Keustermans</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1989-03-24" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2925874"/>
    </employee>
    <employee>
       <empno>10417</empno>
       <name>Bingning Bakhtari</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1999-06-27" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922127"/>
    </employee>
    <employee>
       <empno>10418</empno>
       <name>Candida Porotnikoff</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1996-10-04" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2923123"/>
    </employee>
    <employee>
       <empno>10419</empno>
       <name>Maria Bauknecht</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1992-04-25" tend="2002-07-06">d008</deptNo>
       <manager>111534</manager>
       <period period="3724"/>
    </employee>
    <employee>
       <empno>10420</empno>
       <name>Kaijung Riesenhuber</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1988-01-17" tend="2000-07-09">d008</deptNo>
       <manager>111534</manager>
       <period period="4557"/>
    </employee>
    <employee>
       <empno>10421</empno>
       <name>Divine Marzano</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1990-04-07" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2925495"/>
    </employee>
    <employee>
       <empno>10422</empno>
       <name>Greger Rubsam</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1997-09-30" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922762"/>
    </employee>
    <employee>
       <empno>10423</empno>
       <name>Dante Cronin</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1999-05-27" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2922158"/>
    </employee>
    <employee>
       <empno>10424</empno>
       <name>Babette Straney</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1989-08-07" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2925738"/>
    </employee>
    <employee>
       <empno>10425</empno>
       <name>Sashi Osgood</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-05-07" tend="2002-05-06">d004</deptNo>
       <manager>110420</manager>
       <period period="2556"/>
    </employee>
    <employee>
       <empno>10426</empno>
       <name>Arunas Luce</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1985-07-06" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2927231"/>
    </employee>
    <employee>
       <empno>10427</empno>
       <name>Khosrow Sudbeck</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-10-03" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923855"/>
    </employee>
    <employee>
       <empno>10428</empno>
       <name>Cathie Brlek</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1992-06-04" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2924706"/>
    </employee>
    <employee>
       <empno>10429</empno>
       <name>Martien Improta</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-09-23" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926056"/>
    </employee>
    <employee>
       <empno>10430</empno>
       <name>Ferdinand Chenney</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1999-07-17" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2922107"/>
    </employee>
    <employee>
       <empno>10431</empno>
       <name>Patricio Bugrara</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1987-10-08" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926407"/>
    </employee>
    <employee>
       <empno>10432</empno>
       <name>Hisao Tiemann</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1990-08-13" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2925367"/>
    </employee>
    <employee>
       <empno>10433</empno>
       <name>Reuven Dengi</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1992-11-26" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2924531"/>
    </employee>
    <employee>
       <empno>10434</empno>
       <name>Dzung Peltason</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1995-06-27" tend="2002-06-22">d004</deptNo>
       <manager>110420</manager>
       <period period="2552"/>
    </employee>
    <employee>
       <empno>10435</empno>
       <name>Marsha Tagansky</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-06-08" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923241"/>
    </employee>
    <employee>
       <empno>10436</empno>
       <name>Yahiko Lammel</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1988-01-30" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2926293"/>
    </employee>
    <employee>
       <empno>10437</empno>
       <name>Narain Reeker</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1996-04-12" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2923298"/>
    </employee>
    <employee>
       <empno>10438</empno>
       <name>Evgueni Srimani</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1990-01-19" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925573"/>
    </employee>
    <employee>
       <empno>10439</empno>
       <name>Jolita Jarecki</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-05-01" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924375"/>
    </employee>
    <employee>
       <empno>10440</empno>
       <name>Akeel Narahara</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="2000-01-30" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2921910"/>
    </employee>
    <employee>
       <empno>10441</empno>
       <name>Adel Perfilyeva</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-07-12" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926129"/>
    </employee>
    <employee>
       <empno>10442</empno>
       <name>Volkmar Unno</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-02-12" tend="2001-03-13">d007</deptNo>
       <manager>111133</manager>
       <period period="3317"/>
    </employee>
    <employee>
       <empno>10443</empno>
       <name>Shichao Litvinov</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1989-08-01" tend="2002-07-06">d005</deptNo>
       <manager>110567</manager>
       <period period="4722"/>
    </employee>
    <employee>
       <empno>10444</empno>
       <name>Kazuhira Rosis</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-10-23" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923835"/>
    </employee>
    <employee>
       <empno>10445</empno>
       <name>Junichi Kavanagh</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1987-11-04" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926380"/>
    </employee>
    <employee>
       <empno>10446</empno>
       <name>Ebru Chepyzhov</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-12-25" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923041"/>
    </employee>
    <employee>
       <empno>10447</empno>
       <name>Ronghao Yavatkar</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1988-12-29" tend="2000-11-15">d006</deptNo>
       <manager>110854</manager>
       <period period="4339"/>
    </employee>
    <employee>
       <empno>10448</empno>
       <name>Phule Oxenboll</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-03-12" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924790"/>
    </employee>
    <employee>
       <empno>10449</empno>
       <name>Aleksandar Sudkamp</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1996-03-12" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2923329"/>
    </employee>
    <employee>
       <empno>10450</empno>
       <name>Khun Harbusch</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-08-24" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922799"/>
    </employee>
    <employee>
       <empno>10451</empno>
       <name>Bodh Ranta</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1988-03-12" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926251"/>
    </employee>
    <employee>
       <empno>10452</empno>
       <name>Werner Hasham</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1995-11-12" tend="2001-10-11">d005</deptNo>
       <manager>110567</manager>
       <period period="2160"/>
    </employee>
    <employee>
       <empno>10453</empno>
       <name>Tsvetan Matzel</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1985-04-02" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2927326"/>
    </employee>
    <employee>
       <empno>10454</empno>
       <name>Wonhee Badr</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1989-04-16" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925851"/>
    </employee>
    <employee>
       <empno>10455</empno>
       <name>Sverrir Streng</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1995-02-19" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923716"/>
    </employee>
    <employee>
       <empno>10456</empno>
       <name>Stepehn Hardjono</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="2000-01-06" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2921934"/>
    </employee>
    <employee>
       <empno>10457</empno>
       <name>Oddvar Schlenzig</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1999-10-23" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2922009"/>
    </employee>
    <employee>
       <empno>10458</empno>
       <name>Gina Engelmann</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-07-05" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2923945"/>
    </employee>
    <employee>
       <empno>10459</empno>
       <name>Ennio Trogemann</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1998-06-14" tend="9999-12-31">d002</deptNo>
       <manager>110114</manager>
       <period period="2922505"/>
    </employee>
    <employee>
       <empno>10460</empno>
       <name>Shushma VanScheik</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1999-06-30" tend="2001-04-15">d005</deptNo>
       <manager>110567</manager>
       <period period="655"/>
    </employee>
    <employee>
       <empno>10461</empno>
       <name>Gal Karcich</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1987-08-03" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2926473"/>
    </employee>
    <employee>
       <empno>10462</empno>
       <name>Sumali Schlenzig</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1996-03-25" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2923316"/>
    </employee>
    <employee>
       <empno>10463</empno>
       <name>Ung Zaiane</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1994-02-17" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924083"/>
    </employee>
    <employee>
       <empno>10464</empno>
       <name>Mang Maginnis</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1991-05-21" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2925086"/>
    </employee>
    <employee>
       <empno>10465</empno>
       <name>Claudi Shackel</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1994-12-11" tend="9999-12-31">d009</deptNo>
       <manager>111939</manager>
       <period period="2923786"/>
    </employee>
    <employee>
       <empno>10466</empno>
       <name>Jiakeng Himler</name>
-      <deptNo>d009</deptNo>
+      <deptNo tstart="1997-08-22" tend="2000-08-15">d009</deptNo>
       <manager>111939</manager>
       <period period="1089"/>
    </employee>
    <employee>
       <empno>10467</empno>
       <name>Dipayan Suomi</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1992-05-22" tend="1999-11-01">d003</deptNo>
       <manager>110228</manager>
       <period period="2719"/>
    </employee>
    <employee>
       <empno>10468</empno>
       <name>Yoshimitsu Shobatake</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1991-05-28" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2925079"/>
    </employee>
    <employee>
       <empno>10469</empno>
       <name>Munehiko Ananiadou</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1992-12-26" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2924501"/>
    </employee>
    <employee>
       <empno>10470</empno>
       <name>Peternela Iwayama</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-09-19" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925695"/>
    </employee>
    <employee>
       <empno>10471</empno>
       <name>Jouko Yamaashi</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1990-11-18" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2925270"/>
    </employee>
    <employee>
       <empno>10472</empno>
       <name>Salvador Lodder</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1999-12-01" tend="2002-01-02">d007</deptNo>
       <manager>111133</manager>
       <period period="763"/>
    </employee>
    <employee>
       <empno>10473</empno>
       <name>Przemyslawa Oskamp</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1997-09-23" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2922769"/>
    </employee>
    <employee>
       <empno>10474</empno>
       <name>Kenton Garnham</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1987-02-21" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2926636"/>
    </employee>
    <employee>
       <empno>10475</empno>
       <name>Mario Rodite</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-05-13" tend="1994-12-30">d004</deptNo>
       <manager>110420</manager>
       <period period="961"/>
    </employee>
    <employee>
       <empno>10476</empno>
       <name>Kokou Iisaka</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1987-09-20" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2926425"/>
    </employee>
    <employee>
       <empno>10477</empno>
       <name>Guoxiang Trogemann</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1997-05-26" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2922889"/>
    </employee>
    <employee>
       <empno>10478</empno>
       <name>Maik Ushiama</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1993-02-10" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2924455"/>
    </employee>
    <employee>
       <empno>10479</empno>
       <name>Duro Coney</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1993-07-24" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924291"/>
    </employee>
    <employee>
       <empno>10480</empno>
       <name>Make Baba</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1988-05-18" tend="1989-06-03">d002</deptNo>
       <manager>110114</manager>
       <period period="381"/>
    </employee>
    <employee>
       <empno>10481</empno>
       <name>Yongmao Pintelas</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-10-03" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925681"/>
    </employee>
    <employee>
       <empno>10482</empno>
       <name>Goa Pleszkun</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-02-26" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923344"/>
    </employee>
    <employee>
       <empno>10483</empno>
       <name>Zhiwei Anick</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1993-11-10" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2924182"/>
    </employee>
    <employee>
       <empno>10484</empno>
       <name>Nirmal Varley</name>
-      <deptNo>d003</deptNo>
+      <deptNo tstart="1996-12-20" tend="9999-12-31">d003</deptNo>
       <manager>110228</manager>
       <period period="2923046"/>
    </employee>
    <employee>
       <empno>10485</empno>
       <name>Teruyuki Sundgren</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-01-21" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923380"/>
    </employee>
    <employee>
       <empno>10486</empno>
       <name>Amstein Kossowski</name>
-      <deptNo>d006</deptNo>
+      <deptNo tstart="1987-10-08" tend="9999-12-31">d006</deptNo>
       <manager>110854</manager>
       <period period="2926407"/>
    </employee>
    <employee>
       <empno>10487</empno>
       <name>Perla Middleton</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-08-14" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924635"/>
    </employee>
    <employee>
       <empno>10488</empno>
       <name>Mihalis Heering</name>
-      <deptNo>d008</deptNo>
+      <deptNo tstart="1996-11-18" tend="9999-12-31">d008</deptNo>
       <manager>111534</manager>
       <period period="2923078"/>
    </employee>
    <employee>
       <empno>10489</empno>
       <name>Elvia Homond</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1989-09-10" tend="1989-10-06">d005</deptNo>
       <manager>110567</manager>
       <period period="26"/>
    </employee>
    <employee>
       <empno>10490</empno>
       <name>Huiqun Vuskovic</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1992-11-22" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2924535"/>
    </employee>
    <employee>
       <empno>10491</empno>
       <name>Garnik Narahari</name>
-      <deptNo>d001</deptNo>
+      <deptNo tstart="1990-01-17" tend="9999-12-31">d001</deptNo>
       <manager>110039</manager>
       <period period="2925575"/>
    </employee>
    <employee>
       <empno>10492</empno>
       <name>Lobel Kumaresan</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1988-04-29" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2926203"/>
    </employee>
    <employee>
       <empno>10493</empno>
       <name>Maris Haraldson</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1998-10-29" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922368"/>
    </employee>
    <employee>
       <empno>10494</empno>
       <name>Yakkov Servieres</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1991-12-18" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924875"/>
    </employee>
    <employee>
       <empno>10495</empno>
       <name>Anyuan Zhiwei</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1989-09-24" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2925690"/>
    </employee>
    <employee>
       <empno>10496</empno>
       <name>Gretta Baig</name>
-      <deptNo>d002</deptNo>
+      <deptNo tstart="1995-08-29" tend="1999-01-26">d002</deptNo>
       <manager>110114</manager>
       <period period="1246"/>
    </employee>
    <employee>
       <empno>10497</empno>
       <name>Pramod Rabehasaina</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1992-01-22" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924840"/>
    </employee>
    <employee>
       <empno>10498</empno>
       <name>Valter Cappelletti</name>
-      <deptNo>d004</deptNo>
+      <deptNo tstart="1994-03-09" tend="9999-12-31">d004</deptNo>
       <manager>110420</manager>
       <period period="2924063"/>
    </employee>
    <employee>
       <empno>10499</empno>
       <name>Maik Luft</name>
-      <deptNo>d007</deptNo>
+      <deptNo tstart="1998-03-16" tend="9999-12-31">d007</deptNo>
       <manager>111133</manager>
       <period period="2922595"/>
    </employee>
    <employee>
       <empno>10500</empno>
       <name>Vojin Narwekar</name>
-      <deptNo>d005</deptNo>
+      <deptNo tstart="1996-12-16" tend="9999-12-31">d005</deptNo>
       <manager>110567</manager>
       <period period="2923050"/>
    </employee>
