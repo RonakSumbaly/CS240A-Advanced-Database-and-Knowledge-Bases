@@ -16,7 +16,7 @@ declare function local:getPeriod($dept){
     for $r in $dept
         let $period := $r/@tend cast as xs:date - $r/@tstart cast as xs:date
         let $days := local:calculateDuration($period) cast as xs:integer
-        return <dept period="{$days}">{data($r)}</dept>
+        return <result period="{$days}" tstart="{$r/@tstart}" tend="{$r/@tend}">{data($r)}</result>
 };
 
 element temporalJoin
@@ -33,7 +33,8 @@ element temporalJoin
 	   <employee>
             <empno>{data($emp/empno)}</empno>
             <name>{data($emp/firstname),data($emp/lastname)}</name>
-            <deptNo>{data($department)}</deptNo>
+            <deptNo tstart="{$department/@tstart}" tend="{$department/@tend}">{data($department)}</deptNo>
+
             <manager>{data($manager)}</manager>
             <period>{$department/@period}</period>
         </employee>   
